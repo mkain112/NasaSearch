@@ -21,6 +21,9 @@ The first model constructed is a simple Sequential CNN trained on around 1200 im
 The second model uses transfer learning with the Vgg16 CNN, which is trained on all of the images on ImageNet.
 ![alt text][vgg16Model]
 
+And finally we give our model new images to classify.
+![alt text][pizzaornot]
+
 ## Built With
 
 * [NASA API](https://api.nasa.gov/) 
@@ -31,6 +34,7 @@ The second model uses transfer learning with the Vgg16 CNN, which is trained on 
 * [GoogleSlides](https://docs.google.com/presentation/d/1dZp84LE8ghdW0R4i--vkRscxogsvKhGNatiOdvxWg1E/edit?usp=sharing)
 
 
-[FirstModel]: https://github.com/mkain112/NasaSearch/blob/master/Images/CNN%20to%20classify%20NASA%20images%20(3).jpg?raw=true 
-[vgg16Model]: https://github.com/mkain112/NasaSearch/blob/master/Images/CNN%20to%20classify%20NASA%20images%20(4).jpg?raw=true
-[planetornot]: https://github.com/mkain112/NasaSearch/blob/master/Images/CNN%20to%20classify%20NASA%20images%20(1).jpg?raw=true
+[FirstModel]: https://github.com/mkain112/NasaSearch/blob/master/Images/BuildYO.jpg?raw=true
+[vgg16Model]: https://github.com/mkain112/NasaSearch/blob/master/Images/vgg16.jpg?raw=true
+[planetornot]: https://github.com/mkain112/NasaSearch/blob/master/Images/planetornot.jpg?raw=true
+[pizzaornot]: https://github.com/mkain112/NasaSearch/blob/master/Images/PizzaPlanet.jpg?raw=true
