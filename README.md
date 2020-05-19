@@ -12,3 +12,17 @@ Use the Space EDA notebook to scrape images from the NASA API or use it as a tem
 
 You will have to have the images sorted into categories and stored in directories reflecting those categories to use this code without major modification.
 
+### Results
+
+The first model constructed is a simple Sequential CNN trained on around 1200 images. The second model uses transfer learning with the Vgg16 CNN, which is trained on all of the images on ImageNet.
+
+
+## Built With
+
+* [NASA API](https://api.nasa.gov/) 
+* [Vgg16](https://keras.io/api/applications/vgg/#vgg16-function) – Keras source for the Vgg16 model
+
+## Slideshow
+
+*[GoogleSlides}(https://docs.google.com/presentation/d/1dZp84LE8ghdW0R4i--vkRscxogsvKhGNatiOdvxWg1E/edit?usp=sharing)
+
